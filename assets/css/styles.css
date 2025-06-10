@@ -1,4 +1,11 @@
 body {
     background-color:lightgrey;
     background-image: url("../images/snowy-trees.jpg");
+    background-repeat:no-repeat;
+    
+}
+
+h2 {
+    color: orange;
+   
 }
